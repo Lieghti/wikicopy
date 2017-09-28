@@ -1,4 +1,8 @@
-.side-nav {
-  float: left;
-  width: 10%;
+.left {
+  width: 50%;
+  border: 1px solid #cef2e0;
+  padding: 0;
+  background: #f5fffa;
+  vertical-align: top;
+  color: #000;
 }
